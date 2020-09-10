@@ -1,5 +1,5 @@
 {
-  "name": "loopback-context",
+  "name": "@atelierfabien/loopback-context",
   "version": "3.5.1",
   "description": "Current context for LoopBack applications, based on cls-hooked",
   "engines": {
